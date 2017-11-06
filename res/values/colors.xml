@@ -26,8 +26,8 @@
     <color name="ripple_material_light">#40000000</color>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="fake_window_shade_color">#40424242</color>
-    <color name="rambar_left_color">@color/colorPrimary</color>
-    <color name="rambar_middle_color">@color/colorPrimary</color>
+    <color name="rambar_left_color">@color/colorAccent</color>
+    <color name="rambar_middle_color">@color/colorAccent</color>
     <color name="rambar_right_color">#ff888888</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_grey_50">#fffafafa</color>
@@ -37,9 +37,9 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <color name="colorAccent">#ff4caf50</color>
-    <color name="colorPrimary">#ff4caf50</color>
-    <color name="colorPrimaryDark">#ff388e3c</color>
+    <color name="colorAccent">#ff5e97f6</color>
+    <color name="colorPrimary">#ff2d2d2d</color>
+    <color name="colorPrimaryDark">#ff242424</color>
     <color name="ic_setting_icon_color">#FFFFFFFF</color>
     <color name="ic_wallpaper_icon_color">#FFFFFFFF</color>
     <color name="ic_widget_icon_color">#FFFFFFFF</color>
